@@ -79,6 +79,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithm, Link
 
 麦吉尔大学 (McGill University)
 
+北卡罗来纳州立大学 (North Carolina State University)
+
 ### 大洋洲
 
 新南威尔士大学 (UNSW Sydney)
@@ -89,3 +91,4 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithm, Link
 
 维多利亚大学 (Victoria University)
 
+詹姆士库克大学 (James Cook University)
