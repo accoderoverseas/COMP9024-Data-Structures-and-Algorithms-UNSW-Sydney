@@ -25,6 +25,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 ### 欧洲
 
+伦敦大学 (University of London)
+
 伦敦国王大学 (King's College London)
 
 伦敦大学学院 (University College London)
@@ -86,6 +88,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 麦吉尔大学 (McGill University)
 
 北卡罗来纳州立大学 (North Carolina State University)
+
+弗吉尼亚理工大学暨州立大学 (Virginia Tech)
 
 ### 大洋洲
 
