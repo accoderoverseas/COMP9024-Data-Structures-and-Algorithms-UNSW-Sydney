@@ -11,6 +11,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 温州肯恩大学 (Wenzhou-Kean University)
 
+厦门大学马来西亚分校 (Xiamen University Malaysia)
+
 香港大学 (University of Hong Kong)
 
 香港城市大学 (City University of Hong Kong)
