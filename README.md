@@ -15,6 +15,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 香港大学 (University of Hong Kong)
 
+香港理工大学 (Hong Kong Polytechnic University)
+
 香港城市大学 (City University of Hong Kong)
 
 香港专业教育学院 (Hong Kong Institute of Vocational Education)
@@ -106,6 +108,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 昆士兰大学 (University of Queensland)
 
 南澳大利亚大学 (University of South Australia)
+
+奥克兰理工大学 (Auckland University of Technology)
 
 维多利亚大学 (Victoria University)
 
