@@ -109,6 +109,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 南澳大利亚大学 (University of South Australia)
 
+澳洲南十字星大学 (Southern Cross University)
+
 奥克兰理工大学 (Auckland University of Technology)
 
 维多利亚大学 (Victoria University)
