@@ -111,6 +111,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 弗吉尼亚理工大学暨州立大学 (Virginia Tech)
 
+西蒙弗雷泽大学 (Simon Fraser University)
+
 ### 大洋洲
 
 新南威尔士大学 (UNSW Sydney)
