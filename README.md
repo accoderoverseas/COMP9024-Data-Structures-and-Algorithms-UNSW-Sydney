@@ -35,6 +35,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 伦敦大学学院 (University College London)
 
+伦敦大学玛丽皇后学院 (Queen Mary University of London)
+
 曼彻斯特大学 (University of Manchester)
 
 利物浦大学 (University of Liverpool)
