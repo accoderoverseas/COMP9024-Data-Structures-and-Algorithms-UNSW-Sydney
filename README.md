@@ -59,6 +59,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 普利茅斯大学 (University of Plymouth)
 
+萨塞克斯大学 (University of Sussex)
+
 中央兰开夏大学 (University of Central Lancashire)
 
 卡迪夫大学 (Cardiff University)
