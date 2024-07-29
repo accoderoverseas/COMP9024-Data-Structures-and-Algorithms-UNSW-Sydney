@@ -89,7 +89,9 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 宾夕法尼亚大学 (University of Pennsylvania)
 
-加利福尼亚大学 (University of California, Berkeley)
+加利福尼亚大学伯克利分校 (University of California, Berkeley)
+
+加利福尼亚大学戴维斯分校 (University of California, Davis)
 
 卡内基梅隆大学 (Carnegie Mellon University)
 
