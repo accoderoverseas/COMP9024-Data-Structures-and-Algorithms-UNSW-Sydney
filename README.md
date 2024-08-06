@@ -115,6 +115,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 佐治亚理工学院 (Georgia Institute of Technology)
 
+伦斯勒理工学院 (Rensselaer Polytechnic Institute)
+
 犹他大学 (The University of Utah)
 
 匹兹堡大学 (University of Pittsburgh)
