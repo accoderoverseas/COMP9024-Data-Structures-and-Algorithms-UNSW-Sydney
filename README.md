@@ -67,6 +67,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 普利茅斯大学 (University of Plymouth)
 
+南安普敦大学 (University of Southampton)
+
 东安格利亚大学 (university of East Anglia)
 
 萨塞克斯大学 (University of Sussex)
@@ -122,6 +124,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 犹他大学 (The University of Utah)
 
 匹兹堡大学 (University of Pittsburgh)
+
+迈阿密大学 (Miami University)
 
 科尔比学院 (Colby College)
 
