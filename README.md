@@ -23,6 +23,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 香港专业教育学院 (Hong Kong Institute of Vocational Education)
 
+澳门科技大学 (Macau University of Science and Technology)
+
 新加坡国立大学 (National University of Singapore)
 
 世纪大学 (SEGi University & Colleges)
