@@ -155,7 +155,7 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 蒙纳什大学 (Monash University)
 
-墨尔本大学 (The University of Melbourne)
+墨尔本大学 (University of Melbourne)
 
 伍伦贡大学 (University of Wollongong)
 
