@@ -71,7 +71,9 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 南安普敦大学 (University of Southampton)
 
-东安格利亚大学 (university of East Anglia)
+东安格利亚大学 (University of East Anglia)
+
+哈德斯菲尔德大学 (University of Huddersfield)
 
 萨塞克斯大学 (University of Sussex)
 
