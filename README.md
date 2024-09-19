@@ -9,6 +9,8 @@ COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Lin
 
 西交利物浦大学 (Xi-an Jiaotong Liverpool University)
 
+湖北大学曼城联合学院 (Manchester Metropolitan Joint Institute, Hubei University)
+
 温州肯恩大学 (Wenzhou-Kean University)
 
 厦门大学马来西亚分校 (Xiamen University Malaysia)
