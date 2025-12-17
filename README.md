@@ -1,184 +1,94 @@
 # COMP9024-Data-Structures-and-Algorithms-UNSW-Sydney
 COMP9024 Data Structures and Algorithms 辅导, Data Structures, Algorithms, Linked List, Stack, Queue, Heap, Tree, Graph, DFS, BFS, Dijkstra, PageRank, QQ: 496352127, WeChat: cestbon_688, Email: accoder_overseas@163.com
 
-****
+---
 
-## 国家/地区(陆续更新, 包括但不限于如下)
+## 留学生计算机cs/数学math辅导
 
-### 亚洲
+985+C9 CS科班本硕毕业, 在校专业成绩Top1%, 目前外企sde
 
-西交利物浦大学 (Xi-an Jiaotong Liverpool University)
+11年CS学习+项目开发经验, 指导上千成功案例, 顺利学会专业基础知识, 提升代码实现与动手实践能力
 
-湖北大学曼城联合学院 (Manchester Metropolitan Joint Institute, Hubei University)
+一对一+原创 量身定制方案, 本人沟通对接需求, 避免找中介/机构上当受骗
 
-温州肯恩大学 (Wenzhou-Kean University)
+可指导Quiz/Assignment/Assessment/Project/Report/Midterm/Final/Resit
 
-厦门大学马来西亚分校 (Xiamen University Malaysia)
+专业课程预习/重点知识体系梳理/课后练习/模拟测试/全程跟班, 持续跟进帮忙答疑解惑
 
-香港大学 (University of Hong Kong)
+英国/苏格兰/爱尔兰/德国/澳洲/美国/加拿大/新西兰/马来西亚/韩国/日本/港澳台等地区都可以
 
-香港中文大学 (Chinese University of Hong Kong)
+一起学习, 共同进步!
 
-香港理工大学 (Hong Kong Polytechnic University)
+---
 
-香港城市大学 (City University of Hong Kong)
+## 联系方式 (备注 GitHub, 中介勿扰)
+QQ: 496352127
 
-香港专业教育学院 (Hong Kong Institute of Vocational Education)
+WeChat: ac_coder_tutor
 
-澳门科技大学 (Macau University of Science and Technology)
+E-Mail: accoder_overseas@163.com, accoderoverseas@gmail.com 
+    
+(both can contact me, I will login the contacts daily and reply to you immediately)
 
-新加坡国立大学 (National University of Singapore)
+---
 
-世纪大学 (SEGi University & Colleges)
+## CS Professional Tutoring
+Graduated from a 985+C9 cs major with a bachelor's and master's degree, ranking in the top 1% of the major during school, currently working at a foreign company's sde. 
 
-马来西亚理科大学 (Universiti Sains Malaysia)
+With 11 years of experience in CS learning and project development, having guided over a thousand successful cases, I have smoothly mastered the basic professional knowledge and enhanced my code implementation and hands-on practical skills.
 
-### 欧洲
+1v1 + original and tailor-made solutions. I will communicate and coordinate your needs myself to avoid being deceived when looking for intermediaries or institutions.
 
-伦敦大学 (University of London)
+Can guide the quizzes/the Assignment/Assessment/Project/Report/Midterm/Final/Resit for you. 
 
-伦敦国王大学 (King's College London)
+Preview of professional courses/Review of key knowledge systems/After-class exercises/simulation tests/full-time class attendance, continuous follow-up to help answer questions and solve doubts. 
 
-伦敦大学学院 (University College London)
+Regions such as the United Kingdom, Scotland, Ireland, Germany, Australia, the United States, Canada, New Zealand, Malaysia, South Korea, Japan, Hong Kong, Macao and Taiwan are all acceptable. 
 
-伦敦大学玛丽皇后学院 (Queen Mary University of London)
+Study together, and make progress together!
 
-曼彻斯特大学 (University of Manchester)
+Specialized courses/professional fields:
 
-利物浦大学 (University of Liverpool)
+Programming Language: C/C++/Java/Python/Go/Kotlin/Scala/Haskell
 
-谢菲尔德大学 (University of Sheffield)
+DSA: Algorithms/Data Structures/Design and Analysis
 
-莱斯特大学 (University of Leicester)
+Computer Principles/Computer Architecture
 
-伯明翰大学 (University of Birmingham)
+Operating System
 
-利兹大学 (University of Leeds)
+Computer Network/Security
 
-格拉斯哥大学 (University of Glasgow)
+Database Systems: MySQL/Oracle/Access/MongoDB/Redis/Neo4j
 
-牛津布鲁克斯大学 (Oxford Brooks University)
+Linux/Shell/Git
 
-布里斯托大学 (University of Bristol)
+Software Engineering/Software Architecture/Software Modeling/Design Pattern
 
-纽卡斯尔大学 (Newcastle University)
+Full Stack Development: Vue/SpringBoot/SpringCloud/Node.js/Express.js/Angular.js
 
-约克大学 (University of York)
+Discrete mathematics
 
-杜伦大学 (Durham University)
+DA: Data Science/Data Analysis/Data Mining
 
-华威大学 (University of Warwick)
+AI: Machine Learning/Deep Learning/Reinforcement Learning/LLM
 
-普利茅斯大学 (University of Plymouth)
+Big Data/Cloud Computing/Internet of Things
 
-南安普敦大学 (University of Southampton)
+Docker/K8S
 
-东安格利亚大学 (University of East Anglia)
+Math: Calculus/Linear algebra/Probability Theory
 
-哈德斯菲尔德大学 (University of Huddersfield)
+...
 
-萨塞克斯大学 (University of Sussex)
+---
 
-埃克塞特大学 (University of Exeter)
+## Contact Me (Please make remark 'GitHub', no inquiries from intermediaries)
+QQ: 496352127
 
-中央兰开夏大学 (University of Central Lancashire)
+WeChat: ac_coder_tutor
 
-德比大学 (University of Derby)
+E-Mail: accoder_overseas@163.com, accoderoverseas@gmail.com 
+    
+(both can contact me, I will login the contacts daily and reply to you immediately)
 
-卡迪夫大学 (Cardiff University)
-
-卡迪夫都会大学 (Cardiff Metropolitan University)
-
-都柏林大学 (University College Dublin)
-
-阿伯丁大学 (University of Aberdeen)
-
-阿尔斯特大学 (Ulster University)
-
-慕尼黑大学 (LMU Munich)
-
-赫尔辛基大学 (University of Helsinki)
-
-奥卢大学 (University of Oulu)
-
-拉普兰大学 (University of Lapland)
-
-### 北美洲
-
-纽约大学 (New York University)
-
-华盛顿大学 (University of Washington)
-
-宾夕法尼亚大学 (University of Pennsylvania)
-
-加利福尼亚大学伯克利分校 (University of California, Berkeley)
-
-加利福尼亚大学戴维斯分校 (University of California, Davis)
-
-南加州大学 (University of Southern California)
-
-卡内基梅隆大学 (Carnegie Mellon University)
-
-密歇根大学 (University of Michigan)
-
-美国林肯大学 (Lincoln University)
-
-罗彻斯特理工学院 (Rochester Institute of Technology)
-
-佐治亚理工学院 (Georgia Institute of Technology)
-
-伦斯勒理工学院 (Rensselaer Polytechnic Institute)
-
-犹他大学 (The University of Utah)
-
-匹兹堡大学 (University of Pittsburgh)
-
-迈阿密大学 (Miami University)
-
-科尔比学院 (Colby College)
-
-史蒂文斯理工学院 (Stevens Institute of Technology)
-
-卡尔顿大学 （Carleton University)
-
-麦吉尔大学 (McGill University)
-
-北卡罗来纳州立大学 (North Carolina State University)
-
-弗吉尼亚理工大学暨州立大学 (Virginia Tech)
-
-西蒙弗雷泽大学 (Simon Fraser University)
-
-多伦多大学 (University of Toronto)
-
-### 大洋洲
-
-澳大利亚国立大学 (The Australian National University)
-
-新南威尔士大学 (UNSW Sydney)
-
-悉尼大学 (University of Sydney)
-
-蒙纳什大学 (Monash University)
-
-墨尔本大学 (University of Melbourne)
-
-伍伦贡大学 (University of Wollongong)
-
-昆士兰大学 (University of Queensland)
-
-昆士兰科技大学 (Queensland University of Technology)
-
-南澳大利亚大学 (University of South Australia)
-
-澳洲南十字星大学 (Southern Cross University)
-
-奥克兰大学 (Auckland University)
-
-奥克兰理工大学 (Auckland University of Technology)
-
-维多利亚大学 (Victoria University)
-
-詹姆士库克大学 (James Cook University)
-
-怀卡托大学 (University of Waikato)
